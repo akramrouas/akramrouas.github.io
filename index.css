@@ -176,15 +176,15 @@ ul li a:hover{
 }
 
 .img1{
-    background-image:url('Images/medecine-generale.jpg') ;
+    background-image:url('images/medecine-generale.jpg') ;
 }
 .img2{
-    background-image:url('Images/sante-au-travail.jpg') ;
+    background-image:url('images/sante-au-travail.jpg') ;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .img3{
-    background-image:url('Images/labo.jpg') ;
+    background-image:url('images/labo.jpg') ;
     background-repeat: no-repeat;
     background-size: cover;
 }
